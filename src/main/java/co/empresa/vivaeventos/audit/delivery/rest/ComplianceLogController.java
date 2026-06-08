@@ -1,7 +1,7 @@
 package co.empresa.vivaeventos.audit.delivery.rest;
 
-import co.empresa.vivaeventos.audit.domain.model.dto.ComplianceLogRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.ComplianceLogResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.ComplianceLogRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.ComplianceLogResponse;
 import co.empresa.vivaeventos.audit.domain.service.IComplianceLogService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

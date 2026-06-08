@@ -1,10 +1,10 @@
 package co.empresa.vivaeventos.audit.domain.service;
 
 import co.empresa.vivaeventos.audit.domain.model.AuditLog;
-import co.empresa.vivaeventos.audit.domain.model.dto.AuditLogFilterRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.AuditLogRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.AuditLogResponse;
-import co.empresa.vivaeventos.audit.domain.model.dto.PagedResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.AuditLogFilterRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.AuditLogRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.AuditLogResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.PagedResponse;
 import co.empresa.vivaeventos.audit.domain.repository.IAuditLogRepository;
 import jakarta.persistence.criteria.Predicate;
 import lombok.RequiredArgsConstructor;

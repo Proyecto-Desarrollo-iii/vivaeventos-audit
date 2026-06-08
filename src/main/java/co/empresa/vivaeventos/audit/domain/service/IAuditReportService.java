@@ -1,7 +1,7 @@
 package co.empresa.vivaeventos.audit.domain.service;
 
-import co.empresa.vivaeventos.audit.domain.model.dto.AuditReportRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.AuditReportResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.AuditReportRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.AuditReportResponse;
 
 import java.util.List;
 import java.util.UUID;

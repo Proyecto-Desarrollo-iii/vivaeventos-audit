@@ -1,7 +1,7 @@
 package co.empresa.vivaeventos.audit.delivery.rest;
 
-import co.empresa.vivaeventos.audit.domain.model.dto.SensitiveDataAccessRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.SensitiveDataAccessResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.SensitiveDataAccessRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.SensitiveDataAccessResponse;
 import co.empresa.vivaeventos.audit.domain.service.ISensitiveDataAccessService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
