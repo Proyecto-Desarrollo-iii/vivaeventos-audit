@@ -1,8 +1,8 @@
 package co.empresa.vivaeventos.audit.domain.service;
 
 import co.empresa.vivaeventos.audit.domain.model.ComplianceLog;
-import co.empresa.vivaeventos.audit.domain.model.dto.ComplianceLogRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.ComplianceLogResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.ComplianceLogRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.ComplianceLogResponse;
 import co.empresa.vivaeventos.audit.domain.repository.IComplianceLogRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

@@ -1,8 +1,8 @@
 package co.empresa.vivaeventos.audit.domain.service;
 
 import co.empresa.vivaeventos.audit.domain.model.SensitiveDataAccess;
-import co.empresa.vivaeventos.audit.domain.model.dto.SensitiveDataAccessRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.SensitiveDataAccessResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.SensitiveDataAccessRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.SensitiveDataAccessResponse;
 import co.empresa.vivaeventos.audit.domain.repository.ISensitiveDataAccessRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

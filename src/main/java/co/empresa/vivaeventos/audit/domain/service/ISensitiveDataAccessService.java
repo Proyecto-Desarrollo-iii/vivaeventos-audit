@@ -1,7 +1,7 @@
 package co.empresa.vivaeventos.audit.domain.service;
 
-import co.empresa.vivaeventos.audit.domain.model.dto.SensitiveDataAccessRequest;
-import co.empresa.vivaeventos.audit.domain.model.dto.SensitiveDataAccessResponse;
+import co.empresa.vivaeventos.audit.domain.model.Dto.SensitiveDataAccessRequest;
+import co.empresa.vivaeventos.audit.domain.model.Dto.SensitiveDataAccessResponse;
 
 import java.util.List;
 import java.util.UUID;
